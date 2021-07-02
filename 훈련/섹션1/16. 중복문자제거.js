@@ -6,4 +6,4 @@ function removeRepeatedStr (str) {
   }
   return answer;
 }
-console.log(removeRepeat('ksekkset'));
+console.log(removeRepeatedStr('ksekkset'));
